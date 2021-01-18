@@ -1,0 +1,17 @@
+{
+    "name": "thegreytangent/routing",
+    "authors": [
+        {
+            "name": "thegreytangent",
+            "email": "thegreytangent@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
