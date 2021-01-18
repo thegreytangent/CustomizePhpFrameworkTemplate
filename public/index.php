@@ -12,8 +12,6 @@
 	
 	$app = new Application(dirname(__DIR__));
 	
-	
-	
 	$app->router->get("/", 'home');
 	
 	$app->router->get("/user", function () {
