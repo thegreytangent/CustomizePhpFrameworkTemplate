@@ -1,11 +1,6 @@
-<h1>Contact</h1>
+<h1>Login</h1>
 
 <form action="" method="POST">
-
-<div class="mb-3">
-	<label for="exampleFormControlInput1" class="form-label">Subject:</label>
-	<input type="text" name="subject" class="form-control" id="subject">
-</div>
 
 <div class="mb-3">
 	<label for="exampleFormControlInput1" class="form-label">Email:</label>
@@ -13,7 +8,7 @@
 </div>
 
 <div class="mb-3">
-	<label for="exampleFormControlTextarea1" class="form-label">Body</label>
+	<label for="exampleFormControlTextarea1" class="form-label">Password:</label>
 	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 </div>
 <div class="col-auto">

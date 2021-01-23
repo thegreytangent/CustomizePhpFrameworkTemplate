@@ -14,14 +14,6 @@
   <body>
 
   <div class="container">
-  <nav class="nav">
-
-  <a class="nav-link" href="/">Home</a>
-  <a class="nav-link" href="/contact">Contact</a>
-  <a class="nav-link" href="/login">Login</a>
-  <a class="nav-link" href="/register">Register</a>
- 
-</nav>
 
 
 {{content}}

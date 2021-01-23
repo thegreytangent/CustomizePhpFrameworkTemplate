@@ -10,6 +10,8 @@
 		public Request $request;
 		public Response $response;
 		public static Application $app;
+		public Controller $controller;
+		
 		
 	
 
